@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.product_card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+.inputBox {
+  width: 700px;
+  height: 300px;
+}
+.btns {
+  display: flex;
+  gap: 8px;
+}
